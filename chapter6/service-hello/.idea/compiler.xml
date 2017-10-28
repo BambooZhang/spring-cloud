@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="servic-hystrix-dashboard" />
+        <module name="service-feign-hystrix" />
+        <module name="service-ribbon" />
+        <module name="servicefeign" />
+        <module name="serviceribbon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="servic-hystrix-dashboard" target="1.8" />
+      <module name="service-feign" target="1.8" />
+      <module name="service-feign-hystrix" target="1.8" />
+      <module name="service-hello" target="1.8" />
+      <module name="service-hystrix" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
+      <module name="service-world" target="1.8" />
+      <module name="servicefeign" target="1.8" />
+      <module name="serviceribbon" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
