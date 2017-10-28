@@ -22,6 +22,6 @@ githubœ¬‘ÿ£∫[https://github.com/BambooZhang/spring-cloud](https://github.com/Bam
 
 
 
-![forezp.jpg](https://github.com/BambooZhang/spring-cloud/bamboo.jpg)
+![bamboo.jpg](https://raw.githubusercontent.com/BambooZhang/spring-cloud/master/bamboo.jpg)
 
 
