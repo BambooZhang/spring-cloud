@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../servic-hystrix-dashboard/servic-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/../servic-hystrix-dashboard/servic-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service-feign/service-feign.iml" filepath="$PROJECT_DIR$/../service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service-feign-hystrix/service-feign-hystrix.iml" filepath="$PROJECT_DIR$/../service-feign-hystrix/service-feign-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-hello.iml" filepath="$PROJECT_DIR$/service-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service-hystrix/service-hystrix.iml" filepath="$PROJECT_DIR$/../service-hystrix/service-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/../service-ribbon/service-ribbon.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+#eureka:
+#  client:
+#    serviceUrl:
+#      defaultZone: http://localhost:8761/eureka/
+#server:
+#  port: 8762
+#spring:
+#  application:
+#    name: service-hi
+
+
+server:
+  port: 8762
+spring:
+  application:
+    name: service-hystrix-dashboard
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+  #新增的保护模式处理配置部分，正式环境一下配置都不需要
+#  healthcheck:
+#        enabled: true # 开启健康检查（需要spring-boot-starter-actuator依赖）
+#  instance:
+#      lease-expiration-duration-in-seconds: 30  # 续约更新时间间隔（默认30秒）
+#      lease-renewal-interval-in-seconds: 10 # 续约到期时间（默认90秒）
+
+

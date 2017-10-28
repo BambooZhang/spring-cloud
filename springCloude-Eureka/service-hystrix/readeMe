@@ -1,0 +1,4 @@
+service-hystrix:ribbon
+    使用hystrix断路器
+    在service-ribbon的基础上实现的断路器实和断路器监控
+service-feigin-hystrix:feigin使用hystrix断路器
