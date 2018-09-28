@@ -1,24 +1,43 @@
 
->×ªÔØÇë±êÃ÷³ö´¦£º 
+>è½¬è½½è¯·æ ‡æ˜å‡ºå¤„ï¼š 
 > http://blog.csdn.net/zjcjava
-> ±¾ÎÄ³ö×Ô[ÄÁÖñ×Ó](http://blog.csdn.net/zjcjava)
+> æœ¬æ–‡å‡ºè‡ª[ç‰§ç«¹å­](http://blog.csdn.net/zjcjava)
 
-Spring Boot×öÎªÏÂÒ»´ú web ¿ò¼Ü£¬Spring Cloud ×÷Îª×îĞÂ×î»ğµÄÎ¢·şÎñµÄÇÌ³ş,Èç¹ûËµdubboÊÇ¹úÄÚÇ°¼¸Äê×î»ğµÄÎ¢·şÎñ¹¹¼Ü£¬ÄÇÃ´spring cloudÔòÊÇ×î½üÕâĞ©Äê¹úÄÚÍâ×îÖ÷Á÷µÄÎ¢·şÎñ¹¹¼ÜµÄÒ»Ì×¼¯ºÏ¡£
+Spring Bootåšä¸ºä¸‹ä¸€ä»£ web æ¡†æ¶ï¼ŒSpring Cloud ä½œä¸ºæœ€æ–°æœ€ç«çš„å¾®æœåŠ¡çš„ç¿˜æ¥š,å¦‚æœè¯´dubboæ˜¯å›½å†…å‰å‡ å¹´æœ€ç«çš„å¾®æœåŠ¡æ„æ¶ï¼Œé‚£ä¹ˆspring cloudåˆ™æ˜¯æœ€è¿‘è¿™äº›å¹´å›½å†…å¤–æœ€ä¸»æµçš„å¾®æœåŠ¡æ„æ¶çš„ä¸€å¥—é›†åˆã€‚
 
-°¸ÀıÈ«²¿²ÉÓÃSpring Boot 1.5.x ,Spring Cloud°æ±¾ÎªDalston.RELEASE
+æ¡ˆä¾‹å…¨éƒ¨é‡‡ç”¨Spring Boot 1.5.x ,Spring Cloudç‰ˆæœ¬ä¸ºDalston.RELEASE
 
-ÎÒÎªÊ²Ã´ÕâĞ©ÎÄÕÂ£¿Ò»ÊÇ¹®¹Ì×Ô¼ºµÄÖªÊ¶£¬¶şÊÇÏ£ÍûÓĞ¸ü¼Ó¿ª·ÅºÍÓëÈË·ÖÏíµÄĞÄÌ¬£¬ÈıÊÇ½ÓÊÜ¸÷Î»´óÉñµÄÅúÆÀÖ¸½Ì£¬ÓĞÈÎºÎÎÊÌâ¿ÉÒÔÁªÏµÎÒ: zjcjava@163.com .
-ÂëÅ©ÏÂÔØ£º[https://github.com/BambooZhang/spring-cloud](https://github.com/BambooZhang/spring-cloud)
-githubÏÂÔØ£º[https://github.com/BambooZhang/spring-cloud](https://github.com/BambooZhang/spring-cloud),¼ÇµÃstarÅ¶£¡
+æˆ‘ä¸ºä»€ä¹ˆè¿™äº›æ–‡ç« ï¼Ÿä¸€æ˜¯å·©å›ºè‡ªå·±çš„çŸ¥è¯†ï¼ŒäºŒæ˜¯å¸Œæœ›æœ‰æ›´åŠ å¼€æ”¾å’Œä¸äººåˆ†äº«çš„å¿ƒæ€ï¼Œä¸‰æ˜¯æ¥å—å„ä½å¤§ç¥çš„æ‰¹è¯„æŒ‡æ•™ï¼Œæœ‰ä»»ä½•é—®é¢˜å¯ä»¥è”ç³»æˆ‘: zjcjava@163.com .
+ç å†œä¸‹è½½ï¼š[https://github.com/BambooZhang/spring-cloud](https://github.com/BambooZhang/spring-cloud)
+githubä¸‹è½½ï¼š[https://github.com/BambooZhang/spring-cloud](https://github.com/BambooZhang/spring-cloud),è®°å¾—starå“¦ï¼
 
-#### CSDN»ã×Ü£º[SpringCloud ÏµÁĞ](http://blog.csdn.net/zjcjava/article/category/7236687)
+#### CSDNæ±‡æ€»ï¼š[SpringCloud ç³»åˆ—](http://blog.csdn.net/zjcjava/article/category/7236687)
 
-### ¡¶Ê·ÉÏ×î¼òµ¥µÄ SpringCloud ½Ì³Ì¡·ÏµÁĞ£º
+springCloude-Eureka	ç¬¬1-5ç¯‡çš„æºç ï¼šè¯·æ ¹æ®æ¯ç¯‡çš„é¡¹ç›®å‡†å¤‡ä¸­çš„é¡¹ç›®åç§°å¯»æ‰¾
 
-* [SpringCloud ÏµÁĞ | µÚÒ»Æª: ·şÎñµÄ×¢²áÓë·¢ÏÖ£¨Eureka£©](http://blog.csdn.net/zjcjava/article/details/78289636)
+chapter6	ç¬¬6ç¯‡:SpringCloudç¬¬å…­ç¯‡-Zuul
+
+chapter7	ç¬¬7ç¯‡:SpringCloudç¬¬ä¸ƒç¯‡-Spring Cloud Config
+
+chapter8	ç¬¬8ç¯‡:SpringCloudç¬¬å…«ç¯‡-Spring Cloud Configé›†ç¾¤	
+
+chapter9/consul-server	SpringCloudç¬¬ä¹ç¯‡-æœåŠ¡æ³¨å†Œ(consul)consulä½œä¸ºæ³¨å†Œä¸­å¿ƒ	
+
+chapter10	SpringCloudç¬¬åç¯‡-gatewayæ›¿ä»£zuulä»¥åŠè§£å†³gatewayè·¨åŸŸè®¿é—®é—®é¢˜	
 
 
-### ÎÒµÄÎ¢ĞÅ¶©ÔÄºÅ
+
+
+### ã€Šå²ä¸Šæœ€ç®€å•çš„ SpringCloud æ•™ç¨‹ã€‹ç³»åˆ—ï¼š
+
+* [SpringCloud ç³»åˆ— | ç¬¬ä¸€ç¯‡: æœåŠ¡çš„æ³¨å†Œä¸å‘ç°ï¼ˆEurekaï¼‰](http://blog.csdn.net/zjcjava/article/details/78289636)
+
+
+
+
+
+
+### æˆ‘çš„å¾®ä¿¡è®¢é˜…å·
 
 
 

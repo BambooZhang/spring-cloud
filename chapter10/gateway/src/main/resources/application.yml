@@ -1,0 +1,14 @@
+server:
+  port: 8500
+spring:
+  cloud:
+    gateway:
+      routes:
+      - id: service_route
+        uri: http://localhost:8501/
+        predicates:
+        - Path=/health
+#      - id: master_route
+#            uri: http://163.com:80/
+#            predicates:
+#            - Path=/netbase
