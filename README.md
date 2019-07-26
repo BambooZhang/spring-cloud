@@ -1,4 +1,4 @@
-
+﻿
 >转载请标明出处： 
 > http://blog.csdn.net/zjcjava
 > 本文出自[牧竹子](http://blog.csdn.net/zjcjava)
@@ -24,6 +24,10 @@ chapter8	第8篇:SpringCloud第八篇-Spring Cloud Config集群
 chapter9/consul-server	SpringCloud第九篇-服务注册(consul)consul作为注册中心	
 
 chapter10	SpringCloud第十篇-gateway替代zuul以及解决gateway跨域访问问题	
+
+chapter11	SpringCloud第十一篇-Alibaba Nacos替代Spring Cloud Config
+
+chapter12	SpringCloud第十二篇-服务追踪Zipkin+Spring Cloud Sleuth
 
 
 
